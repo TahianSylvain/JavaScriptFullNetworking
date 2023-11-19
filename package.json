@@ -1,0 +1,19 @@
+{
+  "name": "fullnetworkjs",
+  "version": "1.0.0",
+  "description": "Learning how http Protocols work in JS from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing.js"
+  },
+  "keywords": [
+    "network",
+    "http",
+    "protocols",
+    "js",
+    "from",
+    "scratch"
+  ],
+  "author": "BootCamp.dev",
+  "license": "ISC"
+}
